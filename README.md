@@ -4,6 +4,10 @@
   <img src="https://graph.org/file/f586172fe40a0b5d0b0df.jpg" alt="Alice Music Logo" width="600" height="350">
 </p>
 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/yakhsyaa23/alice"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+
 <p align="center">
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
 
